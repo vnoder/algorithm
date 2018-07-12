@@ -2,6 +2,6 @@
 'use strict';
 module.exports = weightRandom;
 
-function weightRandom(arr, weightKey){
+function weightRandom(arr, weightKey) {
 
 }
